@@ -1,1 +1,1 @@
-# Bo-thu-mem_NavIC
+# Bộ thu mềm cho tín hiệu NavIC
